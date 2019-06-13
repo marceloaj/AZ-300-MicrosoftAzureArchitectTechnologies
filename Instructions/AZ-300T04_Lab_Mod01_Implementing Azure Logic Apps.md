@@ -220,7 +220,11 @@ The main tasks for this exercise are as follows:
 
     - Subject: type **Resource updated:** and, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Subject**.
 
-    - Body: in the **Dynamic Content** column to the right of the **Send an email** pane, click **See more**. Next, type **Resource group:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Topic**, type **Event type:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event Type**, type **Event ID:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event ID**, type **Event Time:**, and in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event Time**.
+    - Body: in the **Dynamic Content** column to the right of the **Send an email** pane, click **See more**. Next, 
+        type **Resource group:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Topic**
+        type **Event type:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event Type**
+        type **Event ID:**, in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event ID**
+        type **Event Time:**, and in the **Dynamic Content** column to the right of the **Send an email** pane, click **Event Time**.
 
 
 #### Task 3: Identify the callback URL of the Azure logic app
